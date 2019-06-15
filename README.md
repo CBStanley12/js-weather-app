@@ -20,11 +20,11 @@ Complete:
 - [X] City persists in localStorage
 
 To-Do List:
-- [] Utilize better weather api that allows user to specify state, country, etc
-- [] Refactor display to include relative humidity, dewpoint, feels like, and wind
-- [] Allow users to 'save' cities and display brief weather information next to main display
-- [] User can click on the 'saved' cities and view more detail
-- [] User can delete cities from their 'saved' list
+- [ ] Utilize better weather api that allows user to specify state, country, etc
+- [ ] Refactor display to include relative humidity, dewpoint, feels like, and wind
+- [ ] Allow users to 'save' cities and display brief weather information next to main display
+- [ ] User can click on the 'saved' cities and view more detail
+- [ ] User can delete cities from their 'saved' list
 
 ## Screenshots
 ![WeatherJS App - Example Screenshot 1](./images/weatherjs-1.png)
